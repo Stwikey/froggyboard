@@ -27,7 +27,7 @@ I've never owned a personal keyboard before and thought this would be the perfec
 
 ## Other Components
 
-<img width="693" height="551" alt="Screenshot 2026-06-21 at 12 47 37 AM" src="https://github.com/user-attachments/assets/9611b7af-14bf-49a2-a210-6863615aedc3" />
+<img width="451" height="365" alt="Screenshot 2026-06-21 at 1 07 53 AM" src="https://github.com/user-attachments/assets/b3032e92-8ac4-4f30-8cba-4aa329f0664f" />
 
 # PCB
 
