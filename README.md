@@ -3,18 +3,15 @@
 
 A cozy keyboard with every add-on you can think of! Keroppi is a wired keyboard, powered by a Raspberry Pi Pico through a modern USB-C port. It resembles a 75% keyboard layout style with 79 keys and also features a rotary encoder that can be used to toggle many short cuts such as turning the volume up or down. It also acts as another switch! There is also a TFT LCD screen that can display all sorts of images as you type! Finally, Keroppi has per key RGB lighting, and plays cool lighting animations on the keyboard!
 
+# What does Keroppi do?
 
-What is Keroppi?
+Keroppi is a wired keyboard that can be connected to your computer so you can start typing comfortably!
 
-keroppi is a wired keyboard 
+# How do you use Keroppi?
 
-What does Keroppi do?
+Simply start by putting the Raspberry Pi Pico into bootloader mode by plugging it into a USB port and pressing down the BOOTSEL button, once you see RPI-RPI2 open on your computer, drag the frogboard_default.uf2 file onto it (found in the firmware folder of this github repository) and you are ready to start typing!
 
-Hook it up to your computer and you can type with it! There is also per-key rgb 
-that plays animations when you type, a rotary encoder to increase/decrease the volume, 
-and a lcd tft screen for cool things to display!
-
-Why was Keroppi made?
+# Why does Keroppi exist?
 
 Fun fact, i've never actually owned an individual keyboard (which is also why this project was so complex to me)
 and wanted to make one! 
