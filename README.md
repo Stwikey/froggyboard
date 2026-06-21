@@ -5,7 +5,7 @@ A cozy keyboard with every add-on you can think of! Keroppi is a wired keyboard,
 
 # What does Keroppi do?
 
-Keroppi is a wired keyboard that can be connected to your computer so you can start typing comfortably!
+Keroppi is a wired keyboard that can be connected to your computer so you can start typing comfortably! it comes with cool components such as per-key RGB backlighting that plays animations as you type, a rotary encoder, and a TFT LCD screen that can display cool images or animations! Keroppi was designed to be an "all in one" keyboard, at least it's everything that I would want in a keyboard :D
 
 # How do you use Keroppi?
 
@@ -13,14 +13,24 @@ Simply start by putting the Raspberry Pi Pico into bootloader mode by plugging i
 
 # Why does Keroppi exist?
 
-Fun fact, i've never actually owned an individual keyboard (which is also why this project was so complex to me)
-and wanted to make one! 
+I've never owned a personal keyboard before and thought this would be the perfect project to make! It's practical meaning I would use it everyday and I could personalize it and customize it with everything I want on a keyboard! 
 
-Instructions
-want to know how to use Keroppi? read the following instructions!
+# Schematic
 
-CAD
+## Switch Matrix
 
-Firmware
+<img width="527" height="531" alt="Screenshot 2026-06-21 at 12 45 51 AM" src="https://github.com/user-attachments/assets/01689b43-82c5-45e6-89e0-02809d1fd951" />
 
+## RGB Daisy Chain
 
+<img width="483" height="675" alt="Screenshot 2026-06-21 at 12 46 11 AM" src="https://github.com/user-attachments/assets/cc0906a3-ac6c-444d-98a0-a5c7fb346bcb" />
+
+## Other Components
+
+<img width="693" height="551" alt="Screenshot 2026-06-21 at 12 47 37 AM" src="https://github.com/user-attachments/assets/9611b7af-14bf-49a2-a210-6863615aedc3" />
+
+# PCB
+
+<img width="962" height="423" alt="Screenshot 2026-06-21 at 12 44 18 AM" src="https://github.com/user-attachments/assets/b08fcfee-e91a-41b5-87f1-ffe2843e347c" />
+
+# 3D Model
