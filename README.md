@@ -1,4 +1,8 @@
-#Keroppi
+# Keroppi
+<img width="373" height="531" alt="Screenshot 2026-06-21 at 12 25 49 AM" src="https://github.com/user-attachments/assets/79232fd1-3435-43ff-a1d6-d63cc164f811" />
+
+A cozy keyboard with every add-on you can think of! Keroppi is a wired keyboard, powered by a Raspberry Pi Pico through a modern USB-C port. It resembles a 75% keyboard layout style with 79 keys and also features a rotary encoder that can be used to toggle many short cuts such as turning the volume up or down. It also acts as another switch! There is also a TFT LCD screen that can display all sorts of images as you type! Finally, Keroppi has per key RGB lighting, and plays cool lighting animations on the keyboard!
+
 
 What is Keroppi?
 
