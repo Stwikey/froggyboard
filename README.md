@@ -10,7 +10,22 @@ Keroppi is a wired keyboard that can be connected to your computer so you can st
 # How do you use Keroppi?
 
 ## Assembly Instructions
-Keroppi is meant to 
+
+### 1. Handsoldering the PCB
+
+Start by assembling the PCB! Handsolder all of the components onto the board according to the silscreen diagram, that includes any LEDs, capacitors, pin headers, Raspberry Pi Pico, USB-C, TFT LCD, rotary encoder, and hotswap sockets.
+
+### 2. Assembling the Switch Plate
+
+Assemble the switch plate by sliding in the stabilizers to their respective mounts
+
+## 3. Attach the Base
+
+Install M2 female–male hex spacers in the base and space out the switch plate from the pcb using 4mm spacers, next attach everything together using M2 screws
+
+## 4. Attach the top plate
+
+Slide in the top plate and it should hold screwless using friction!
 
 ## Flashing Firmware
 
