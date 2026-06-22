@@ -39,7 +39,7 @@ Install M2.2 female–male hex spacers in the base mounting holes and space out 
 
 #### 4. Attach the top plate
 
-Slide in the top plate and it should hold screwless using friction! Glue on 1mm magnets with strong adhesive between the top case and the switch plate for an even tighter hold
+Slide in the top plate and it should hold screwless using friction! 
 
 <img width="774" height="450" alt="Screenshot 2026-06-22 at 5 57 17 PM" src="https://github.com/user-attachments/assets/b14348fc-e75c-4f9d-9bdd-5d492036cf51" />
 
