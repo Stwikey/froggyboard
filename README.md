@@ -31,7 +31,7 @@ Assemble the switch plate by sliding in the stabilizers to their respective moun
 
 #### 3. Attach the Base
 
-Install M2.2 female–male hex spacers in the base mounting holes and space out the switch plate from the PCB using 4mm spacers, next screw the layers in using a M2.2 screw inserted from the switch plate
+Install M2 female–male hex spacers in the base mounting holes and space out the switch plate from the PCB using 4mm spacers, next screw the layers in using a M2 screws inserted from the switch plate
 
 <img width="723" height="396" alt="Screenshot 2026-06-22 at 5 55 56 PM" src="https://github.com/user-attachments/assets/143922c0-a194-4811-b780-87e8b6e21709" />
 <img width="776" height="320" alt="Screenshot 2026-06-22 at 5 55 36 PM" src="https://github.com/user-attachments/assets/840d2dfb-f9c2-41ab-b011-c534dc097775" />
