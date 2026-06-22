@@ -1,4 +1,3 @@
-<img width="533" height="355" alt="Screenshot 2026-06-22 at 6 02 31 PM" src="https://github.com/user-attachments/assets/17246881-bd82-4ead-9e60-17e3b0b62150" />
 # Keroppi
 <img width="373" height="531" alt="Screenshot 2026-06-21 at 12 25 49 AM" src="https://github.com/user-attachments/assets/79232fd1-3435-43ff-a1d6-d63cc164f811" />
 
