@@ -11,23 +11,51 @@ Keroppi is a wired keyboard that can be connected to your computer so you can st
 
 ## Assembly Instructions
 
-### 1. Handsoldering the PCB
+#### 1. Handsoldering the PCB
 
-Start by assembling the PCB! Handsolder all of the components onto the board according to the silscreen diagram, that includes any LEDs, capacitors, pin headers, Raspberry Pi Pico, USB-C, TFT LCD, rotary encoder, and hotswap sockets.
+Start by assembling the PCB! Handsolder all of the components onto the the PCB board according to the silkscreen diagram, that includes any LEDs, capacitors, resistors, pin headers, Raspberry Pi Pico, USB-C, TFT LCD, rotary encoder, and hotswap sockets.
 
-### 2. Assembling the Switch Plate
+The bottom should look something like this
+
+<img width="807" height="337" alt="Screenshot 2026-06-22 at 5 44 40 PM" src="https://github.com/user-attachments/assets/909621cf-9495-479b-9a60-100aa064ad0a" />
+
+The top should look something like this 
+
+<img width="879" height="379" alt="Screenshot 2026-06-22 at 5 44 22 PM" src="https://github.com/user-attachments/assets/8bc9bf78-f147-4cb4-9f39-2311c3d24d78" />
+
+#### 2. Assembling the Switch Plate
 
 Assemble the switch plate by sliding in the stabilizers to their respective mounts
 
-## 3. Attach the Base
+<img width="762" height="339" alt="Screenshot 2026-06-22 at 5 50 42 PM" src="https://github.com/user-attachments/assets/c604e423-68c8-4ac9-8864-42d7bbfc6934" />
 
-Install M2 female–male hex spacers in the base and space out the switch plate from the pcb using 4mm spacers, next attach everything together using M2 screws
+#### 3. Attach the Base
 
-## 4. Attach the top plate
+Install M2.2 female–male hex spacers in the base mounting holes and space out the switch plate from the PCB using 4mm spacers, next screw the layers in using a M2.2 screw inserted from the switch plate
 
-Slide in the top plate and it should hold screwless using friction!
+<img width="723" height="396" alt="Screenshot 2026-06-22 at 5 55 56 PM" src="https://github.com/user-attachments/assets/143922c0-a194-4811-b780-87e8b6e21709" />
+<img width="776" height="320" alt="Screenshot 2026-06-22 at 5 55 36 PM" src="https://github.com/user-attachments/assets/840d2dfb-f9c2-41ab-b011-c534dc097775" />
 
-## Flashing Firmware
+
+#### 4. Attach the top plate
+
+Slide in the top plate and it should hold screwless using friction! Glue on 1mm magnets with strong adhesive between the top case and the switch plate for an even tighter hold
+
+<img width="774" height="450" alt="Screenshot 2026-06-22 at 5 57 17 PM" src="https://github.com/user-attachments/assets/b14348fc-e75c-4f9d-9bdd-5d492036cf51" />
+
+#### 5. Insert the switches
+
+You can now insert the switches through the hotswap sockets
+
+<img width="779" height="414" alt="Screenshot 2026-06-22 at 6 00 36 PM" src="https://github.com/user-attachments/assets/8afc94d2-9c98-4fa9-8915-8b16c724d60d" />
+
+#### 6. Attach the keycaps
+
+Attach the keycaps onto the switches
+
+<img width="750" height="401" alt="Screenshot 2026-06-22 at 6 01 44 PM" src="https://github.com/user-attachments/assets/84b625e5-8443-45a7-8562-c06dde2ba574" />
+
+#### 7. Flashing Firmware
 
 Simply start by putting the Raspberry Pi Pico into bootloader mode by plugging it into a USB port and pressing down the BOOTSEL button, once you see RPI-RPI2 open on your computer, drag the frogboard_default.uf2 file onto it (found in the firmware folder of this github repository) and you are ready to start typing!
 
