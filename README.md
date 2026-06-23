@@ -59,7 +59,7 @@ Attach the keycaps onto the switches
 
 Simply start by putting the Raspberry Pi Pico into bootloader mode by plugging it into a USB port and pressing down the BOOTSEL button, once you see RPI-RPI2 open on your computer, drag the frogboard_default.uf2 file onto it (found in the firmware folder of this github repository) and you are ready to start typing!
 
-<img width="702" height="361" alt="Screenshot 2026-06-22 at 6 02 44 PM" src="https://github.com/user-attachments/assets/70390d41-729e-4691-8951-58c5013da2eb" />
+<img width="290" height="144" alt="Screenshot 2026-06-23 at 5 28 59 PM" src="https://github.com/user-attachments/assets/6aeb0036-7e40-44a1-8c98-355a9123fbeb" />
 
 
 # Why does Keroppi exist?
