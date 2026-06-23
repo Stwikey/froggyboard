@@ -42,14 +42,33 @@ const uint16_t PROGMEM encoder_map[][1][2] = {
 
 #if defined(QUANTUM_PAINTER_ENABLE)
 
-painter_device_t qp_st7735_make_spi_device(
-    uint16_t 160, 
-    uint16_t 80, 
-    pin_t GP5, 
-    pin_t GP1, 
-    pin_t GP0, 
-    uint16_t spi_divisor, 
-    int spi_mode,
-);
 
-bool qp_init(painter_device_t qp_st7735_make_spi_device, painter_rotation_t 0);
+
+static painter_device_t display;
+void keyboard_post_init_kb(void){
+    display = qp_st7735_make_spi_device {
+            uint16_t 160, 
+            uint16_t 80, 
+            pin_t GP5, 
+            pin_t GP1, 
+            pin_t GP0, 
+            uint16_t 4, 
+            int 0,
+    };
+    qp_init(display, QP_ROTATION_0);
+};
+
+void housekeeping_task_user(void) {
+    static uint32_t last_draw = 0;
+    if(timer_elapsed32(last_draw) > 33) {
+        last_draw = timer_read32();
+        qp_setpixel(display, 37, 80, 0, 255, 255);// draws a . - . face in the middle of the screen
+        qp_setpixel(display, 39, 80, 0, 255, 255);
+        qp_setpixel(display, 40, 80, 0, 255, 255);
+        qp_setpixel(display, 42, 80, 0, 255, 255);
+        qp_flush(display);
+
+
+
+    }
+}
