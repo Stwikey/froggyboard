@@ -82,15 +82,15 @@ I've never owned a personal keyboard before and thought this would be the perfec
 
 # PCB
 
-<img width="962" height="423" alt="Screenshot 2026-06-21 at 12 44 18 AM" src="https://github.com/user-attachments/assets/b08fcfee-e91a-41b5-87f1-ffe2843e347c" />
+<img width="954" height="425" alt="Screenshot 2026-06-25 at 11 18 47 PM" src="https://github.com/user-attachments/assets/7150aed5-6a85-4338-8d74-bca61a1eab6e" />
 
 ## 3D Viewer Front
 
-<img width="827" height="352" alt="Screenshot 2026-06-21 at 12 51 39 AM" src="https://github.com/user-attachments/assets/052fc623-8c46-445a-9357-05f4eea347dc" />
+<img width="640" height="283" alt="Screenshot 2026-06-25 at 11 19 03 PM" src="https://github.com/user-attachments/assets/1ec04ec5-ec2f-437c-9220-a703637b7dfa" />
 
 ## 3D Viewer Back
 
-<img width="913" height="389" alt="Screenshot 2026-06-21 at 12 53 03 AM" src="https://github.com/user-attachments/assets/4882aace-612c-4207-937b-033cf06577ed" />
+<img width="650" height="287" alt="Screenshot 2026-06-25 at 11 19 16 PM" src="https://github.com/user-attachments/assets/00516857-aa3d-41db-9df2-2a16487f7c15" />
 
 # 3D Model
 
