@@ -7,6 +7,10 @@ A cozy keyboard with every add-on you can think of! Keroppi is a wired keyboard,
 
 Keroppi is a wired keyboard that can be connected to your computer so you can start typing comfortably! it comes with cool components such as per-key RGB backlighting that plays animations as you type, a rotary encoder, and a TFT LCD screen that can display cool images or animations! Keroppi was designed to be an "all in one" keyboard, at least it's everything that I would want in a keyboard :D
 
+# Why does Keroppi exist?
+
+I've never owned a keyboard before despite being on my computer all day so I thought this was the perfect time to make one from scratch! Plus I'd be able to add as many features as I want and completely personalize it :D
+
 # How do you use Keroppi?
 
 ## Assembly Instructions
