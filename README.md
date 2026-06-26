@@ -17,11 +17,17 @@ Start by assembling the PCB! Handsolder all of the components onto the the PCB b
 
 The bottom should look something like this
 
-<img width="807" height="337" alt="Screenshot 2026-06-22 at 5 44 40 PM" src="https://github.com/user-attachments/assets/909621cf-9495-479b-9a60-100aa064ad0a" />
+<img width="698" height="297" alt="Screenshot 2026-06-26 at 2 46 52 AM" src="https://github.com/user-attachments/assets/5bf9549c-7674-4afa-a83e-7e57fee4e369" />
 
 The top should look something like this 
 
-<img width="879" height="379" alt="Screenshot 2026-06-22 at 5 44 22 PM" src="https://github.com/user-attachments/assets/8bc9bf78-f147-4cb4-9f39-2311c3d24d78" />
+<img width="719" height="314" alt="Screenshot 2026-06-26 at 2 46 19 AM" src="https://github.com/user-attachments/assets/211c73ae-3761-4f3b-a60f-761fa6a3667c" />
+
+#### 1.5. Soldering the Data Lines
+
+Solder the a jumper wire from TP2 on the Raspberry Pi Pico to D- and a jumper wire from TP3 on the Raspberry Pi Pico to D+ to connect the data lines. 
+
+Please note that although this method is possible, it is still risky as data may not be able to establish a reliable connection. If this happens, you can simply just use the usb port instead of the usb-c port.
 
 #### 2. Assembling the Switch Plate
 
