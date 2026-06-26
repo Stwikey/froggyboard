@@ -71,11 +71,6 @@ Simply start by putting the Raspberry Pi Pico into bootloader mode by plugging i
 
 <img width="290" height="144" alt="Screenshot 2026-06-23 at 5 28 59 PM" src="https://github.com/user-attachments/assets/6aeb0036-7e40-44a1-8c98-355a9123fbeb" />
 
-
-# Why does Keroppi exist?
-
-I've never owned a personal keyboard before and thought this would be the perfect project to make! It's practical meaning I would use it everyday and I could personalize it and customize it with everything I want on a keyboard! 
-
 # Schematic
 
 ## Switch Matrix
