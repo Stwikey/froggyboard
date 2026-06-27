@@ -29,7 +29,8 @@ The top should look something like this
 
 #### 1.5. Soldering the Data Lines
 
-Solder the a jumper wire from TP2 on the Raspberry Pi Pico to D- and a jumper wire from TP3 on the Raspberry Pi Pico to D+ to connect the data lines. 
+
+Twist two jumper wires together, trying to keep them the same length. Solder one of the jumper wires from TP2 on the Raspberry Pi Pico to D- and a jumper wire from TP3 on the Raspberry Pi Pico to D+ to connect the data lines.
 
 Please note that although this method can work, it is still risky as data may not be able to establish a reliable connection. If this happens and you see data is not being transferred well, you can simply just use the usb port instead of the usb-c port.
 
